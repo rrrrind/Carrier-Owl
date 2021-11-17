@@ -1,14 +1,14 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.*' OR 'cat:stat.*'
+subject: 'cat:cs.* OR cat:stat.*'
 
 # 検索キーワード
 keywords:
-        sparse modeling: 1
-        feature selection: 3
-        HDLSS: 2
-        imbalanced data: 2
-        classification: 1
-        stability: 1
+    sparse modeling: 1
+    feature selection: 3
+    HDLSS: 2
+    imbalanced data: 2
+    classification: 1
+    stability: 1
         
 
 # 通知の閾値
