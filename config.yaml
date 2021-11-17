@@ -3,14 +3,13 @@ subject: 'cat:cs.* OR cat:stat.ML'
 
 # 検索キーワード
 keywords:
-    sparse modeling: 1
-    feature selection: 3
-    HDLSS: 2
-    imbalanced data: 2
-    classification: 1
-    stability: 2
-    filter method: 1
-        
+  sparse modeling: 1
+  feature selection: 3
+  HDLSS: 2
+  imbalanced data: 2
+  classification: 1
+  stability: 2
+  filter method: 1
 
 # 通知の閾値
 score_threshold: 6
